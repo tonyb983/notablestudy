@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeStyle/FileHeader/FileHeaderText/@EntryValue">© "Copyrighted" (heavy air-quotes there) by $USER_NAME$.
+This declaration probably holds no weight whatever in any court.
+This code is provided as-is, and since $USER_NAME$ wrote it you
+ probably shouldn't use it to begin with, but feel free!
+ 
+ Solution:  $SOLUTION$
+ Project:   $PROJECT$
+ File: $FILENAME$
+ Created: $CREATED_MONTH$/$CREATED_DAY$/$CREATED_YEAR$ at $CREATED_TIME$
+ Updated: $CURRENT_MONTH$/$CURRENT_DAY$/$CURRENT_YEAR$ at $CURRENT_TIME$</s:String></wpf:ResourceDictionary>

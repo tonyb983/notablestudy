@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteClient", "NoteClient\No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteClientTests", "NoteClientTests\NoteClientTests.csproj", "{F330FF1E-C206-4A6D-934E-7FF42122F733}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{B5AF0187-4F38-4EA2-A1A6-E4A00D511F81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityTests", "UtilityTests\UtilityTests.csproj", "{ECF6B9DE-24E0-4BC3-8F11-1416FDF6E422}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{F330FF1E-C206-4A6D-934E-7FF42122F733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F330FF1E-C206-4A6D-934E-7FF42122F733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F330FF1E-C206-4A6D-934E-7FF42122F733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5AF0187-4F38-4EA2-A1A6-E4A00D511F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF0187-4F38-4EA2-A1A6-E4A00D511F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF0187-4F38-4EA2-A1A6-E4A00D511F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF0187-4F38-4EA2-A1A6-E4A00D511F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF6B9DE-24E0-4BC3-8F11-1416FDF6E422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF6B9DE-24E0-4BC3-8F11-1416FDF6E422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF6B9DE-24E0-4BC3-8F11-1416FDF6E422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF6B9DE-24E0-4BC3-8F11-1416FDF6E422}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
